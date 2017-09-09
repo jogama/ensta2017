@@ -1,0 +1,9 @@
+[submodule "follow-level-curve"]
+	path = follow-level-curve
+	url = git@github.com:jogama/follow-level-curve.git
+[submodule "pololu-maestro-ros"]
+	path = pololu-maestro-ros
+	url = git@github.com:jogama/pololu-maestro-ros.git
+[submodule "moos-ivp-enstabretagne"]
+	path = moos-ivp-enstabretagne
+	url = git@github.com:jogama/moos-ivp-enstabretagne.git
